@@ -1,4 +1,4 @@
-# Create a new vendor blocked bank account.
+# View eLogii Planning.
 
 *Prerequisites: Microsoft Dynamics 365 Business Central 
 
