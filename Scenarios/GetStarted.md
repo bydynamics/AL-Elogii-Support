@@ -1,9 +1,9 @@
-# View eLogii Planning.
+# View eLogii Role Center.
 
 *Prerequisites: Microsoft Dynamics 365 Business Central 
 
-1. Navigate to vendors, select vendor, bank accounts and choose **New**
-   ![New](https://github.com/bydynamics/AL-BlockedBankAccount-Support/blob/main/Assets/VendorBankAccountCard.png)
+2. Open Microsoft Dynamics Business Central 
+   ![New](https://github.com/bydynamics/AL-Elogii-Support/blob/main/Assets/ElogiiRoleCenter.png)
 
 ______________________________________________________________________
 
